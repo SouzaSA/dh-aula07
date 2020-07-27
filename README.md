@@ -1,2 +1,5 @@
-# dh-aula07
-Repositório da aula 7
+# Digital House - Turma 04
+# Full Stack Java
+# repositório da aula 07
+  Git
+  Javascript
